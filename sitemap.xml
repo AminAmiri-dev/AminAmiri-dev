@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://your-domain.com/</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://your-domain.com/assets/images/rezomic-persian-resume-template-hero.jpg</image:loc>
+      <image:title>قالب رزومیک</image:title>
+      <image:caption>نمای اصلی قالب رزومیک برای معرفی خدمات وب</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://your-domain.com/assets/images/rezomic-keyhole-product-showcase.jpg</image:loc>
+      <image:title>نمای پایانی قالب رزومیک</image:title>
+      <image:caption>بخش پایانی انیمیشنی برای دعوت به شروع همکاری</image:caption>
+    </image:image>
+  </url>
+</urlset>

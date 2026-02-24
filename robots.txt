@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Crawl-delay is ignored by Google but used by some crawlers.
+Crawl-delay: 1
+
+# Replace `your-domain.com` with your final production domain.
+Sitemap: https://your-domain.com/sitemap.xml

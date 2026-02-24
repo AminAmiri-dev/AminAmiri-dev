@@ -1,0 +1,20 @@
+﻿{
+  "name": "رزومیک",
+  "short_name": "رزومیک",
+  "description": "قالب رزومه فارسی رزومیک برای معرفی خدمات و نمونه‌کار",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07142a",
+  "theme_color": "#07142a",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
