@@ -8,7 +8,7 @@
       anchorLinks: "a[href^='#']"
     };
     const INTERRUPT_EVENTS = ["wheel", "touchstart", "mousedown", "keydown"];
-    const AUTO_SCROLL_PX_PER_SECOND = 1220;
+    const AUTO_SCROLL_PX_PER_SECOND = 2600;
     let autoScrollToken = 0;
     let isAutoScrolling = false;
     let detachInterruptHandlers = null;
